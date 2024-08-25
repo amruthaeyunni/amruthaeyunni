@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthaeyunni&label=Profile%20views&color=0e75b6&style=flat" alt="amruthaeyunni" /> </p>
 
-- 🔭 I’m currently working on some cool AI projects: [Pantry Tracker](https://github.com/amruthaeyunni/pantry-tracker), [AI Customer Support](https://github.com/amruthaeyunni/ai-customer-support), and an [AI Flashcards Generator](https://github.com/amruthaeyunni/ai-flashcards-saas).
+- 🔭 I’m recently made some cool AI projects: [Pantry Tracker](https://github.com/amruthaeyunni/pantry-tracker), [AI Customer Support](https://github.com/amruthaeyunni/ai-customer-support), [AI Flashcards Generator](https://github.com/amruthaeyunni/ai-flashcards-saas), an a [AI Rate My Professor Chat bot](https://github.com/amruthaeyunni/ai-rate-my-professor).
 
 - 🌱 I’m currently learning **Next.Js, Material UI, Firebase**
 
