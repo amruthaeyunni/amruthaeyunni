@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthaeyunni&label=Profile%20views&color=0e75b6&style=flat" alt="amruthaeyunni" /> </p>
 
-- 🔭 I’m recently made some cool AI projects: [Pantry Tracker](https://github.com/amruthaeyunni/pantry-tracker), [AI Customer Support](https://github.com/amruthaeyunni/ai-customer-support), [AI Flashcards Generator](https://github.com/amruthaeyunni/ai-flashcards-saas), an a [AI Rate My Professor Chat bot](https://github.com/amruthaeyunni/ai-rate-my-professor).
-
 - 👯 I’m looking to collaborate on **any AI or software engineering related projects**
-
-- 👨‍💻 All of my projects are available to view at my [personal website](https://amruthaeyunni.github.io/portfolio/) or [repositories](https://github.com/amruthaeyunni?tab=repositories)
-
-- 📝 I write articles on [https://medium.com/@amruthalu](https://medium.com/@amruthalu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
