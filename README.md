@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthaeyunni&label=Profile%20views&color=0e75b6&style=flat" alt="amruthaeyunni" /> </p>
 
-- 👯 I’m looking to collaborate on **any AI or software engineering related projects**
+- I’m looking to collaborate on **any AI or software engineering related projects**
 
 <!--
 <h3 align="left">Connect with me:</h3>
